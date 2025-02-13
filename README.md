@@ -1,7 +1,9 @@
 📌 HydrateMe - Water Tracking App 💧
+
 Stay hydrated and track your daily water intake with HydrateMe! 🚀
 
 🌊 Features
+
 
 ✅ Track Water Intake – Easily log water intake in 250ml or 500ml increments.
 
@@ -16,6 +18,7 @@ Stay hydrated and track your daily water intake with HydrateMe! 🚀
 ✅ Daily Reset 🔄 – Reset intake at the end of the day.
 
 ✅ Interactive Streak Badges 🏆 – Earn badges for maintaining hydration streaks.
+
 
 
 
