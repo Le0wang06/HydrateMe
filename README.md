@@ -1,76 +1,28 @@
-# 🌊 HydrateMe - Water Tracking App 💧
+📌 HydrateMe - Water Tracking App 💧
+Stay hydrated and track your daily water intake with HydrateMe! 🚀
 
-HydrateMe is a **simple and intuitive** React Native app designed to help you track your **daily water intake** and stay hydrated! 🚰
+🌊 Features
+✅ Track Water Intake – Easily log water intake in 250ml or 500ml increments.
+✅ Custom Goals 🎯 – Set your own daily hydration goal!
+✅ Dark Mode 🌙 / Light Mode ☀️ – Toggle between dark and light themes.
+✅ Animated Progress Bar 🌊 – Beautiful visualization of your hydration progress.
+✅ Hydration Tips 💡 – Get fun hydration facts every time you drink!
+✅ Daily Reset 🔄 – Reset intake at the end of the day.
+✅ Interactive Streak Badges 🏆 – Earn badges for maintaining hydration streaks.
 
----
+Run on Expo.Snack by copying the App.js
 
-## 🚀 Features
-✅ **Log Water Intake**: Add water in **250ml** or **500ml** increments.  
-✅ **Daily Goal Tracking**: **Progress bar** visualization of hydration progress.  
-✅ **Auto Reset**: Resets at **midnight** to track a new day.  
-✅ **Minimal & Clean UI**: A beautiful, easy-to-use interface.  
-✅ **Reminders (Coming Soon!)**: Never forget to drink water!  
+🛠 Technologies Used
+🔹 React Native – UI development
+🔹 Expo – Easy cross-platform app development
+🔹 Animated API – Smooth progress animations
+🔹 React Hooks (useState, useEffect) – State management
+
+🎨 Screenshots
+Light Mode ☀️	
+![image](https://github.com/user-attachments/assets/97a13f35-c886-4fd6-bc18-14f69af58b27)
 
 
----
+Dark Mode 🌙
+![image](https://github.com/user-attachments/assets/8593da02-e7a9-4e42-b51e-8c9c8ba0d12f)
 
-## 🛠 Installation
-
-### 📌 Prerequisites
-- ✅ **Node.js & npm** installed
-- ✅ **React Native CLI** installed
-- ✅ **Android/iOS development environment** set up
-
-### 📥 Steps
-1️⃣ **Clone the Repository**
-   ```sh
-   git clone https://github.com/YOUR_USERNAME/HydrateMe.git
-   cd HydrateMe
-   ```
-2️⃣ **Install Dependencies**
-   ```sh
-   npm install
-   ```
-3️⃣ **Run the App**
-   ```sh
-   npx react-native run-android   # For Android 📱
-   npx react-native run-ios       # For iOS 🍏
-   ```
-
----
-
-## 📂 Folder Structure
-```
-📁 HydrateMe/
-│── 📂 android/                # Android-specific files
-│── 📂 ios/                    # iOS-specific files
-│── 📂 src/                    # Main source code
-│   ├── 📂 components/         # Reusable UI components
-│   ├── 📂 screens/            # App screens
-│   ├── 📂 hooks/              # Custom hooks
-│   ├── 📂 utils/              # Helper functions
-│   ├── 📂 assets/             # Images, icons, etc.
-│   ├── 📄 App.js              # Main app file
-│── 📄 package.json            # Dependencies
-│── 📄 .gitignore              # Files to ignore
-│── 📄 README.md               # Project documentation
-```
-
----
-
-## 🤝 Contributing
-We ❤️ contributions! Feel free to **submit a pull request** or **open an issue** to improve this project.
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-
-## 📧 Contact
-For questions, suggestions, or feedback, reach out at **your_email@example.com** or visit the [GitHub Repository](https://github.com/YOUR_USERNAME/HydrateMe). 🌟
-
----
-
-🚀 Stay Hydrated & Keep Building! 💦
