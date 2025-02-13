@@ -20,9 +20,13 @@ Run on Expo.Snack by copying the App.js
 
 🎨 Screenshots
 Light Mode ☀️	
+
+
 ![image](https://github.com/user-attachments/assets/97a13f35-c886-4fd6-bc18-14f69af58b27)
 
 
 Dark Mode 🌙
+
+
 ![image](https://github.com/user-attachments/assets/8593da02-e7a9-4e42-b51e-8c9c8ba0d12f)
 
